@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\bin\Debug\net9.0\Assignment_App.Domain.deps.json
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\bin\Debug\net9.0\Assignment_App.Domain.dll
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\bin\Debug\net9.0\Assignment_App.Domain.pdb
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\obj\Debug\net9.0\Assignment_App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\obj\Debug\net9.0\Assignment_App.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\obj\Debug\net9.0\Assignment_App.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\obj\Debug\net9.0\Assignment_App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\obj\Debug\net9.0\Assignment_App.Domain.dll
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\obj\Debug\net9.0\refint\Assignment_App.Domain.dll
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\obj\Debug\net9.0\Assignment_App.Domain.pdb
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignment_App.Domain\obj\Debug\net9.0\ref\Assignment_App.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\bin\Debug\net9.0\Assignment_App.Infrastructure.deps.json
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\bin\Debug\net9.0\Assignment_App.Infrastructure.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\bin\Debug\net9.0\Assignment_App.Infrastructure.dll
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\bin\Debug\net9.0\Assignment_App.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\bin\Debug\net9.0\Assignment_App.Domain.dll
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\bin\Debug\net9.0\Assignment_App.Domain.pdb
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignment_App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignment_App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignment_App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignment_App.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignment_App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignme.30C189AA.Up2Date
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignment_App.Infrastructure.dll
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\refint\Assignment_App.Infrastructure.dll
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignment_App.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\Assignment_App.Infrastructure.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Assignment_Dev\Assignement_App.Infrastructure\obj\Debug\net9.0\ref\Assignment_App.Infrastructure.dll

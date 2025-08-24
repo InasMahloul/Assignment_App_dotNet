@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignement_app.application\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|solutionrelative:assignement_app.application\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignement_app.application\\queries\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|solutionrelative:assignement_app.application\\queries\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignement_app.application\\queries\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|solutionrelative:assignement_app.application\\queries\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignement_app.application\\commands\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|solutionrelative:assignement_app.application\\commands\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F12571-F5F6-4639-A6E3-A579C1B0AD58}|Assignement_App.Infrastructure\\Assignment_App.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignement_app.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F12571-F5F6-4639-A6E3-A579C1B0AD58}|Assignement_App.Infrastructure\\Assignment_App.Infrastructure.csproj|solutionrelative:assignement_app.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4983A2-FCBA-4291-A82A-BC01B1E04A66}|Assignment.API\\Assignment_App.API.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignment.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4983A2-FCBA-4291-A82A-BC01B1E04A66}|Assignment.API\\Assignment_App.API.csproj|solutionrelative:assignment.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4983A2-FCBA-4291-A82A-BC01B1E04A66}|Assignment.API\\Assignment_App.API.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4983A2-FCBA-4291-A82A-BC01B1E04A66}|Assignment.API\\Assignment_App.API.csproj|solutionrelative:assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77312859-371E-4C58-AB3A-8F71B4B4A357}|Assignment_App.Domain\\Assignment_App.Domain.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignment_app.domain\\events\\taskcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77312859-371E-4C58-AB3A-8F71B4B4A357}|Assignment_App.Domain\\Assignment_App.Domain.csproj|solutionrelative:assignment_app.domain\\events\\taskcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77312859-371E-4C58-AB3A-8F71B4B4A357}|Assignment_App.Domain\\Assignment_App.Domain.csproj|c:\\users\\lenovo\\source\\repos\\assignment_app.domain\\assignment_app.domain\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77312859-371E-4C58-AB3A-8F71B4B4A357}|Assignment_App.Domain\\Assignment_App.Domain.csproj|solutionrelative:assignment_app.domain\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignment.API\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignment.API\\Program.cs",
+              "RelativeToolTip": "Assignment.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:51:28.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignment.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Assignment.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignment.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Assignment.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:50:59.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Assignement_App.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Assignement_App.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:47:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateTaskCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Application\\Commands\\CreateTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "Assignement_App.Application\\Commands\\CreateTaskCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Application\\Commands\\CreateTaskCommandHandler.cs",
+              "RelativeToolTip": "Assignement_App.Application\\Commands\\CreateTaskCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:43:46.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTasksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Application\\Queries\\GetTasksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Assignement_App.Application\\Queries\\GetTasksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Application\\Queries\\GetTasksQueryHandler.cs",
+              "RelativeToolTip": "Assignement_App.Application\\Queries\\GetTasksQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:43:40.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Application\\Queries\\GetTasksQuery.cs",
+              "RelativeDocumentMoniker": "Assignement_App.Application\\Queries\\GetTasksQuery.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Application\\Queries\\GetTasksQuery.cs",
+              "RelativeToolTip": "Assignement_App.Application\\Queries\\GetTasksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:40:16.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Application\\Commands\\CreateTaskCommand.cs",
+              "RelativeDocumentMoniker": "Assignement_App.Application\\Commands\\CreateTaskCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignement_App.Application\\Commands\\CreateTaskCommand.cs",
+              "RelativeToolTip": "Assignement_App.Application\\Commands\\CreateTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:43:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignment_App.Domain\\Events\\TaskCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Assignment_App.Domain\\Events\\TaskCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignment_App.Domain\\Events\\TaskCreatedEvent.cs",
+              "RelativeToolTip": "Assignment_App.Domain\\Events\\TaskCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:40:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignment_App.Domain\\Entities\\TodoTask.cs",
+              "RelativeDocumentMoniker": "Assignment_App.Domain\\Entities\\TodoTask.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_App.Domain\\Assignment_App.Domain\\Entities\\TodoTask.cs",
+              "RelativeToolTip": "Assignment_App.Domain\\Entities\\TodoTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:40:02.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

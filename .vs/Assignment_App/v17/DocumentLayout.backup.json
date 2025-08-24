@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Assignment_Dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4983A2-FCBA-4291-A82A-BC01B1E04A66}|Assignment.API\\Assignment_App.API.csproj|c:\\users\\lenovo\\source\\repos\\assignment_dev\\assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4983A2-FCBA-4291-A82A-BC01B1E04A66}|Assignment.API\\Assignment_App.API.csproj|solutionrelative:assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|c:\\users\\lenovo\\source\\repos\\assignment_dev\\assignement_app.application\\validators\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636D806E-0AF5-4059-8D59-9D6EB81C9E0E}|Assignement_App.Application\\Assignment_App.Application.csproj|solutionrelative:assignement_app.application\\validators\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_Dev\\Assignment.API\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_Dev\\Assignment.API\\Program.cs",
+              "RelativeToolTip": "Assignment.API\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T13:38:32.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Assignment_Dev\\Assignement_App.Application\\Validators\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Assignement_App.Application\\Validators\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Assignment_Dev\\Assignement_App.Application\\Validators\\ValidationBehavior.cs",
+              "RelativeToolTip": "Assignement_App.Application\\Validators\\ValidationBehavior.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T13:37:21.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
