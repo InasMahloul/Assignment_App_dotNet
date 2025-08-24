@@ -1,5 +1,4 @@
-# Assignment_App_dotNet
-# Task Management Application
+# Assignment_App_dotNet : Task Management Application
 This application is a task management system developed with **.NET 9** for the backend and **React** for the frontend. It uses **Clean Architecture**, **CQRS**, **MediatR 13**, **FluentValidation**, and an **InMemory Database** for development purposes.
 
 ## Project Structure
